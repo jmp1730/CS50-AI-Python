@@ -11,3 +11,28 @@ https://cs50.harvard.edu/ai/2020/
  
 ## STATUS
 Completed 
+
+## PROJECT :
+Pset:  
+    0a - Write a program that determines how many “degrees of separation” apart two actors are.    
+    0b - Using Minimax, implement an AI to play Tic-Tac-Toe optimally.  
+
+Pset:  
+    1a - Write a program to solve logic puzzles.    
+    1b - Write an AI to play Minesweeper.     
+    
+Pset:  
+    2a - Write an AI to rank web pages by importance.    
+    2b - Write an AI to assess the likelihood that a person will have a particular genetic trait.  
+    
+Pset3 - Write an AI to generate crossword puzzles.   
+    
+Pset:  
+    4a - Write an AI to predict whether online shopping customers will complete a purchase.  
+    4b - Write an AI that teaches itself to play Nim through reinforcement learning.      
+    
+Pset5 - Write an AI to identify which traffic sign appears in a photograph.  
+
+Pset:  
+    6a - Write an AI to parse sentences and extract noun phrases.  
+    6b - Write an AI to answer questions.    
