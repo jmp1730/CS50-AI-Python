@@ -9,7 +9,7 @@ https://cs50.harvard.edu/ai/2020/
 
  
 ## STATUS
-Completed 
+Completed successfully and certificate obtained 
 
 ## PROJECT :
 Pset:  
